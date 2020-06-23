@@ -52,10 +52,10 @@ echo "
 
 
 // enter your database host, name, username, and password
-$db_host = 'localhost';
-$db_name = 'test';
-$db_user = 'root';
-$db_pass = '';
+$db_host = '127.0.0.1';
+$db_name = 'd';
+$db_user = 'd';
+$db_pass = 'd';
 
 
 // connect with pdo 
